@@ -36,12 +36,12 @@ Currently expanding my Data Analytics and Business Intelligence capability throu
 ## Data Platforms
 - Microsoft Fabric
 
-## Featured Projects
-- Equipment Reporting Suite (Power BI)
-- Monthly EBP Power BI Reporting
-- NZ E-Track Implementation
-- Operational Reporting & Analytics
-- Prestart Compliance Reporting
+## Professional Experience Highlights
+- Power BI Reporting & Dashboard Development
+- Reporting Automation & Process Improvement
+- Operational Analytics & Performance Reporting
+- Systems Implementation & Digital Transformation
+- Data Quality, Validation & Compliance Reporting
 
 ## Connect With Me
 LinkedIn: www.linkedin.com/in/marilyn-turnbull
